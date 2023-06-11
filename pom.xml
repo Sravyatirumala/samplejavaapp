@@ -175,7 +175,8 @@
 		<plugin>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-war-plugin</artifactId>
-    <version>3.9.2</version>
+    <version>3.3.2</version>
+    <type>maven-plugin</type>
     </plugin>
             <plugin>
                 <groupId>org.eclipse.jetty</groupId>
